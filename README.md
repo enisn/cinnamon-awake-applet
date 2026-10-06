@@ -13,6 +13,8 @@ Click the icon for a menu:
 - **Custom:** type any duration in hours (e.g. `1.5`) and press Enter
 - **Turn off now:** restore your normal settings immediately
 - Choosing a new duration while active simply restarts the countdown from now
+<img width="239" height="361" alt="Screenshot from 2026-10-06 12-44-31" src="https://github.com/user-attachments/assets/cdaa2012-af2b-4c55-8a90-da5af620e3e5" />
+<img width="109" height="49" alt="Screenshot from 2026-10-06 12-44-26" src="https://github.com/user-attachments/assets/9aa3346e-400d-48cb-b469-e7b03c044935" />
 
 ## Why
 
